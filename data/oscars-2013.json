@@ -1,0 +1,198 @@
+[
+  {
+    "category": "ACTOR IN A LEADING ROLE",
+    "entity": "Matthew McConaughey"
+  },
+  {
+    "category": "ACTOR IN A SUPPORTING ROLE",
+    "entity": "Jared Leto"
+  },
+  {
+    "category": "ACTRESS IN A LEADING ROLE",
+    "entity": "Cate Blanchett"
+  },
+  {
+    "category": "ACTRESS IN A SUPPORTING ROLE",
+    "entity": "Lupita Nyong'o"
+  },
+  {
+    "category": "ANIMATED FEATURE FILM",
+    "entity": "Frozen"
+  },
+  {
+    "category": "CINEMATOGRAPHY",
+    "entity": "Gravity"
+  },
+  {
+    "category": "COSTUME DESIGN",
+    "entity": "The Great Gatsby"
+  },
+  {
+    "category": "DIRECTING",
+    "entity": "Gravity"
+  },
+  {
+    "category": "DOCUMENTARY (Feature)",
+    "entity": "20 Feet from Stardom"
+  },
+  {
+    "category": "DOCUMENTARY (Short Subject)",
+    "entity": "The Lady in Number 6: Music Saved My Life"
+  },
+  {
+    "category": "FILM EDITING",
+    "entity": "Gravity"
+  },
+  {
+    "category": "FOREIGN LANGUAGE FILM",
+    "entity": "The Great Beauty"
+  },
+  {
+    "category": "MAKEUP AND HAIRSTYLING",
+    "entity": "Dallas Buyers Club"
+  },
+  {
+    "category": "MUSIC (Original Score)",
+    "entity": "Gravity"
+  },
+  {
+    "category": "MUSIC (Original Song)",
+    "entity": "Frozen"
+  },
+  {
+    "category": "BEST PICTURE",
+    "entity": "12 Years a Slave"
+  },
+  {
+    "category": "PRODUCTION DESIGN",
+    "entity": "The Great Gatsby"
+  },
+  {
+    "category": "SHORT FILM (Animated)",
+    "entity": "Mr. Hublot"
+  },
+  {
+    "category": "SHORT FILM (Live Action)",
+    "entity": "Helium"
+  },
+  {
+    "category": "SOUND EDITING",
+    "entity": "Gravity"
+  },
+  {
+    "category": "SOUND MIXING",
+    "entity": "Gravity"
+  },
+  {
+    "category": "VISUAL EFFECTS",
+    "entity": "Gravity"
+  },
+  {
+    "category": "WRITING (Adapted Screenplay)",
+    "entity": "12 Years a Slave"
+  },
+  {
+    "category": "WRITING (Original Screenplay)",
+    "entity": "Her"
+  },
+  {
+    "category": "JEAN HERSHOLT HUMANITARIAN AWARD",
+    "entity": "Angelina Jolie"
+  },
+  {
+    "category": "HONORARY AWARD",
+    "entity": "To Angela Lansbury, an entertainment icon who has created some of cinema's most memorable characters, inspiring generations of actors."
+  },
+  {
+    "category": "HONORARY AWARD",
+    "entity": "To Steve Martin in recognition of his extraordinary talents and the unique inspiration he has brought to the art of motion pictures."
+  },
+  {
+    "category": "HONORARY AWARD",
+    "entity": "To Piero Tosi, a visionary whose incomparable costume designs shaped timeless, living art in motion pictures."
+  },
+  {
+    "category": "GORDON E. SAWYER AWARD",
+    "entity": "Peter W. Anderson"
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Academy Award of Merit)",
+    "entity": "To all those who built and operated film laboratories, for over a century of service to the motion picture industry."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "entity": "To OFER ALON for the design and implementation of the ZBrush software tool for multi-resolution sculpting of digital models."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "entity": "To ERIC VEACH for his foundational research on efficient Monte Carlo path tracing for image synthesis."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "entity": "To ANDRE GAUTHIER, BENOIT SEVIGNY, YVES BOUDREAULT and ROBERT LANCIAULT for the design and implementation of the FiLMBOX software application."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Scientific and Engineering Award)",
+    "entity": "To EMMANUEL PR\u00c9VINAIRE, JAN SPERLING, ETIENNE BRANDT and TONY POSTIAU for their development of the Flying-Cam SARAH 3.0 system."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To OLIVIER MAURY, IAN SACHS and DAN PIPONI for the creation of the ILM Plume system that simulates and renders fire, smoke and explosions for motion picture visual effects."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To RONALD D. HENDERSON for the development of the FLUX gas simulation system."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To ANDREW CAMENISCH, DAVID CARDWELL and TIBOR MADJAR for the concept and design, and to CSABA KOHEGYI and IMRE MAJOR for the implementation of the Mudbox software."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To MARTIN HILL, JON ALLITT and NICK McKENZIE for the creation of the spherical harmonics-based efficient lighting system at Weta Digital."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To FLORIAN KAINZ, JEFFERY YOST, PHILIP HUBBARD and JIM HOURIHAN for the architecture and development of the Zeno application framework."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To PETER HUANG and CHRIS PERRY for their architectural contributions to, and to HANS RIJPKEMA and JOE MANCEWICZ for the core engineering of, the Voodoo application framework."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To MATT PHARR, GREG HUMPHREYS and PAT HANRAHAN for their formalization and reference implementation of the concepts behind physically based rendering, as shared in their book \"Physically Based Rendering.\""
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To DR. PETER HILLMAN for the long-term development and continued advancement of innovative, robust and complete toolsets for deep compositing."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To COLIN DONCASTER, JOHANNES SAAM, AREITO ECHEVARRIA, JANNE KONTKANEN and CHRIS COOPER for the development, prototyping and promotion of technologies and workflows for deep compositing."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To THOMAS LOKOVIC and ERIC VEACH for their influential research and publication of the fundamental concepts of deep shadowing technology."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To GIFFORD HOOPER and PHILIP GEORGE of HoverCam for the continuing development of the Helicam miniature helicopter camera system."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To JOHN FRAZIER, CHUCK GASPAR and CLAY PINNEY for the design and development of the Pneumatic Car Flipper."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To JOSHUA PINES, DAVID REISNER, LOU LEVINSON, CURTIS CLARK, ASC, and DAVID REGISTER for the development of the American Society of Cinematographers Color Decision List technology."
+  },
+  {
+    "category": "SCIENTIFIC AND TECHNICAL AWARD (Technical Achievement Award)",
+    "entity": "To JEREMY SELAN for the development of the OpenColorIO color management framework."
+  },
+  {
+    "category": "JOHN A. BONNER MEDAL OF COMMENDATION",
+    "entity": "To Charles \"Tad\" Marburg in appreciation for outstanding service and dedication in upholding the high standards of the Academy of Motion Picture Arts and Sciences."
+  }
+]
